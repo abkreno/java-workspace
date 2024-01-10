@@ -1,0 +1,7 @@
+- Create a class and name Test with a main method and create 5 variables
+ - x: Type int, value: 10 plus 5 times 2
+ - y: Type double, value 10.0 over 5.0
+ - z: Type boolean, value true or false
+ - w: Type boolean, value true and z
+ - u: Type boolean, value z xor w
+ - Print all variables to the console

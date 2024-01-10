@@ -1,0 +1,8 @@
+- How to define java class
+- Main method and method sigature
+- Printing
+- Data Types (Integers/Long/Double/Float/Boolean)
+- Operations on data type (and, or, xor, add, sub, div, mult, modulus)
+- Integer representation in memory (Bytes/Bits)
+- Binary System counting
+- Binary Integer Sign Representation
